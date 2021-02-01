@@ -251,7 +251,7 @@ typedef struct {
 static patch_info patch_table[] = {
     { ROM_LMP_8723a, "rtl8723a_fw", "rtl8723a_config" },    //Rtl8723AS
     { ROM_LMP_8723b, "rtl8723b_fw", "rtl8723b_config"},     //Rtl8723BS
-    { ROM_LMP_8821a, "rtl8821a_fw", "rtl8821a_config"},     //Rtl8821AS
+    { ROM_LMP_8821a, "rtl8821c_fw.bin", "rtl8821c_config.bin"},     //Rtl8821AS
     { ROM_LMP_8761a, "rtl8761a_fw", "rtl8761a_config"}      //Rtl8761AW
 };
 
